@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./my_env/Lib/site-packages/jedi/plugins",
+        "./my_env/Lib/site-packages/jedi/third_party/typeshed/third_party/2and3"
+    ]
+}
